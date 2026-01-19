@@ -39,13 +39,13 @@ A high-performance, modern web browser engineered for speed, privacy, and a prem
 - **Icons**: Lucide React for consistent, high-quality iconography.
 - **State**: Zustand for lightweight and fast state management.
 ## 📥 Installation & Setup
-### For Regular Users
-1. Go to the [Releases](https://github.com/WeJZTeam/webbrow/releases) page.
-2. Download the latest `.AppImage` or `.deb` file for Linux.
-3. For `.AppImage`:
-   - Right-click the file → **Properties** → **Permissions** → Check **Allow executing file as program**.
-   - Double-click to run.
-### For Developers
+### For Linux
+1. Quick download steps
+2. `wget https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeam Browser-Linux-0.0.0.deb`
+3. `chmod +x "WeJZTeam Browser-Linux-0.0.0.deb"`
+4. `sudo dpkg -i "WeJZTeam Browser-Linux-0.0.0.deb"`
+5. 
+### For Windows
 1. Clone the repository: `git clone https://github.com/WeJZTeam/webbrow.git`
 2. Install dependencies: `npm install`
 3. Launch development: `npm run dev`
