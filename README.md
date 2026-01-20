@@ -1,4 +1,4 @@
-# WeJZTeam Browser
+# WeJZTeam Browser (coming soon)
 A high-performance, modern web browser engineered for speed, privacy, and a premium user experience. Built with the latest web technologies to provide a sleek, efficient, and customizable browsing environment.
 ## 🚀 Key Features in Detail
 ### 🛡️ Built-in Ad & Tracker Blocker
