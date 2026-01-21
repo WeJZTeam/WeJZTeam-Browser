@@ -39,7 +39,7 @@ A high-performance, modern web browser engineered for speed, privacy, and a prem
 - **Icons**: Lucide React for consistent, high-quality iconography.
 - **State**: Zustand for lightweight and fast state management.
 ## 📥 Installation & Setup
-Quick download steps
+Quick download and installation steps
 ### For Linux
   
 1. `wget https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeam Browser-Linux-0.0.0.deb`
@@ -47,10 +47,10 @@ Quick download steps
 3. `sudo dpkg -i "WeJZTeam Browser-Linux-0.0.0.deb"`
 
 ### For Windows
-1. Clone the repository: `git clone https://github.com/WeJZTeam/webbrow.git`
-2. Install dependencies: `npm install`
-3. Launch development: `npm run dev`
-4. Build for production: `npm run build`
+
+1. `curl -L "https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeamBrowser-win.exe" -o "WeJZTeamBrowser-win.exe"`
+2. `WeJZTeamBrowser-win.exe`
+
 ## 🔄 Updating & Maintenance
 - **To Update**: Simply replace your current version with the latest download from the Releases page. Your settings and bookmarks will be preserved in your home directory (`~/.config/wejzteam-browser`).
 - **To Uninstall (Portable)**: Delete the `.AppImage` file and the config folder: `rm -rf ~/.config/wejzteam-browser`.
