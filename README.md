@@ -42,9 +42,9 @@ A high-performance, modern web browser engineered for speed, privacy, and a prem
 Quick download and installation steps
 ### For Linux
   
-1. `wget https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeam Browser-Linux-0.0.0.deb`
-2. `chmod +x "WeJZTeam Browser-Linux-0.0.0.deb"`
-3. `sudo dpkg -i "WeJZTeam Browser-Linux-0.0.0.deb"`
+1. ```wget https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeam Browser-Linux-0.0.0.deb```
+2. ```chmod +x "WeJZTeam Browser-Linux-0.0.0.deb"```
+3. ```sudo dpkg -i "WeJZTeam Browser-Linux-0.0.0.deb"```
 
 ### For Windows
 
