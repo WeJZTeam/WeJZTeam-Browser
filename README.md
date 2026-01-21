@@ -40,11 +40,11 @@ A high-performance, modern web browser engineered for speed, privacy, and a prem
 - **State**: Zustand for lightweight and fast state management.
 ## 📥 Installation & Setup
 ### For Linux
-1. Quick download steps
-2. `wget https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeam Browser-Linux-0.0.0.deb`
-3. `chmod +x "WeJZTeam Browser-Linux-0.0.0.deb"`
-4. `sudo dpkg -i "WeJZTeam Browser-Linux-0.0.0.deb"`
-5. 
+  Quick download steps
+1. `wget https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeam Browser-Linux-0.0.0.deb`
+2. `chmod +x "WeJZTeam Browser-Linux-0.0.0.deb"`
+3. `sudo dpkg -i "WeJZTeam Browser-Linux-0.0.0.deb"`
+
 ### For Windows
 1. Clone the repository: `git clone https://github.com/WeJZTeam/webbrow.git`
 2. Install dependencies: `npm install`
