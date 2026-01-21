@@ -39,8 +39,9 @@ A high-performance, modern web browser engineered for speed, privacy, and a prem
 - **Icons**: Lucide React for consistent, high-quality iconography.
 - **State**: Zustand for lightweight and fast state management.
 ## 📥 Installation & Setup
+Quick download steps
 ### For Linux
-  Quick download steps
+  
 1. `wget https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeam Browser-Linux-0.0.0.deb`
 2. `chmod +x "WeJZTeam Browser-Linux-0.0.0.deb"`
 3. `sudo dpkg -i "WeJZTeam Browser-Linux-0.0.0.deb"`
