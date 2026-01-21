@@ -54,8 +54,12 @@ sudo dpkg -i "WeJZTeam Browser-Linux-0.0.0.deb"
 
 ### For Windows
 
-```curl -L "https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeamBrowser-win.exe" -o "WeJZTeamBrowser-win.exe"```
-```WeJZTeamBrowser-win.exe```
+```
+curl -L "https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeamBrowser-win.exe" -o "WeJZTeamBrowser-win.exe"
+```
+```
+WeJZTeamBrowser-win.exe
+```
 
 ## 🔄 Updating & Maintenance
 - **To Update**: Simply replace your current version with the latest download from the Releases page. Your settings and bookmarks will be preserved in your home directory (`~/.config/wejzteam-browser`).
