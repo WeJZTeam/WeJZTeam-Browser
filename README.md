@@ -41,7 +41,7 @@ A high-performance, modern web browser engineered for speed, privacy, and a prem
 ## 📥 Installation & Setup
 Quick download and installation steps
 ### For Linux
-1. 
+
 ```bash
  wget https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeam Browser-Linux-0.0.0.deb
 ```
@@ -54,8 +54,8 @@ sudo dpkg -i "WeJZTeam Browser-Linux-0.0.0.deb"
 
 ### For Windows
 
-1. `curl -L "https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeamBrowser-win.exe" -o "WeJZTeamBrowser-win.exe"`
-2. `WeJZTeamBrowser-win.exe`
+```curl -L "https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeamBrowser-win.exe" -o "WeJZTeamBrowser-win.exe"```
+```WeJZTeamBrowser-win.exe```
 
 ## 🔄 Updating & Maintenance
 - **To Update**: Simply replace your current version with the latest download from the Releases page. Your settings and bookmarks will be preserved in your home directory (`~/.config/wejzteam-browser`).
