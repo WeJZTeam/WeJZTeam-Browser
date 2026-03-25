@@ -43,7 +43,7 @@ Quick download and installation steps
 ### For Linux
 
 ```bash
- wget https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeam Browser-Linux-0.0.0.deb
+ wget https://zaxx7.rf.gd/WeJZTeam%20Browser-Linux-0.0.0.deb
 ```
 ```
 chmod +x "WeJZTeam Browser-Linux-0.0.0.deb"
@@ -52,13 +52,13 @@ chmod +x "WeJZTeam Browser-Linux-0.0.0.deb"
 sudo dpkg -i "WeJZTeam Browser-Linux-0.0.0.deb"
 ```
 
-### For Windows
+### For Windows (coming soon)
 
 ```
-curl -L "https://raw.githubusercontent.com/WeJZTeam/JZFileBrowser/main/WeJZTeamBrowser-win.exe" -o "WeJZTeamBrowser-win.exe"
+soon
 ```
 ```
-WeJZTeamBrowser-win.exe
+soon
 ```
 
 ## 🔄 Updating & Maintenance
