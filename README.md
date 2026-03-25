@@ -38,6 +38,7 @@ A high-performance, modern web browser engineered for speed, privacy, and a prem
 - **Styling**: Tailwind CSS v4 (the latest standard in CSS).
 - **Icons**: Lucide React for consistent, high-quality iconography.
 - **State**: Zustand for lightweight and fast state management.
+
 ## 📥 Installation & Setup
 Quick download and installation steps
 ### For Linux
