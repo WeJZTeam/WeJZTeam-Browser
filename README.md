@@ -43,9 +43,7 @@ A high-performance, modern web browser engineered for speed, privacy, and a prem
 Quick download and installation steps
 ### For Linux
 
-```bash
- wget https://zaxx7.rf.gd/WeJZTeam%20Browser-Linux-0.0.0.deb
-```
+download deb from https://zaxx7.rf.gd/WeJZTeam%20Browser-Linux-0.0.0.deb
 ```
 chmod +x "WeJZTeam Browser-Linux-0.0.0.deb"
 ```
